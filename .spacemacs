@@ -300,6 +300,8 @@ values."
    mac-command-modifier 'meta
    mac-option-modifier 'none
    default-input-method "MacOSX"
+   js-indent-level 2
+   js2-basic-offset 2
    ))
 
 (defun dotspacemacs/user-init ()
